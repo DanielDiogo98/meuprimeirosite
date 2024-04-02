@@ -1,5 +1,8 @@
 body{background-color: antiquewhite;}
-table, th, td {border: 1px solid;}
-img{height: 27%;}
-h2{text-align: center;}    
+header{background-color: bisque;}
+.logo{background-color: burlywood;}
+nav{background-color: chocolate;}
+main{background-color: blanchedalmond;}
+section{background-color: lightgoldenrodyellow;}
+footer{background-color: coral;}
 
