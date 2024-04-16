@@ -1,5 +1,11 @@
 body{
 background-color:#000000 ;
+font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: gainsboro;
+
 }
 header{
     background-color: #000000		;
@@ -9,7 +15,8 @@ header{
     background-color: #000000		;
 }
 nav{
-    background-color: chocolate;
+    background-color: grey;
+    color:gainsboro ;
 }
 main{
 background-color: #363636;
@@ -40,9 +47,29 @@ h2{
     font-size: 160%;
 }
 img{
-    display: block;margin-left: auto;margin-right: auto;
-    width: 60%;
+    display: block;margin-left: 2%;margin-right: auto;
+    width: 30%;
     height: auto;
 
 }
+.titulo {
+       
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color: gainsboro;
+   
 
+    
+}
+p{
+    color: gainsboro;
+}
+pre{
+    color: gainsboro;
+}
+
+ul{
+    color: gainsboro;
+}
