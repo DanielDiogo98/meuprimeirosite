@@ -4,10 +4,10 @@ font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    color: gainsboro;
-
+    color: gainsboro;       
 }
 header{
+    
     background-color: #000000		;
     padding: 3%;
 }
@@ -64,12 +64,27 @@ img{
     
 }
 p{
+    
     color: gainsboro;
 }
 pre{
+    
     color: gainsboro;
 }
 
 ul{
+   
     color: gainsboro;
 }
+.eps{
+   
+    background-color: #000000;
+    color: gainsboro;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid
+}
+table, th, td {
+    border: 1px solid;
+  } 
