@@ -1,10 +1,11 @@
 body{
-background-color:#000000 ;
+
 font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    color: gainsboro;       
+    color: gainsboro;     
+
 }
 header{
     
@@ -78,13 +79,16 @@ ul{
 }
 .eps{
    
-    background-color: #000000;
-    color: gainsboro;
+background-color: #363636;
+
 }
 table{
     border-collapse: collapse;
-    border: 1px solid
+    border: 1px solid white
+   
+    
 }
 table, th, td {
     border: 1px solid;
+    font-size: 110%;
   } 
