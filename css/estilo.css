@@ -1,56 +1,64 @@
 body{
-
-font-family: "Playfair Display", serif;
+    background-image:url(img/fundoback.jpg);
+    margin-left: 0px;
+    font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    color: gainsboro;     
+    color: black;     
 
 }
 header{
     
-    background-color: #000000		;
+    background-image: url(img/fundoback.jpg)	;
     padding: 3%;
+    
 }
 .logo{
-    background-color: #000000		;
+    background-image: url(img/fundoback.jpg)	;
+    margin-left: auto; margin-right: auto;
 }
 nav{
-    background-color: grey;
-    color:gainsboro ;
+    background-image: url(img/fundoback.jpg);
+    color: black;
 }
 main{
-background-color: #363636;
+    background-image: url(img/fundoback.jpg);
 width: 80%;
 margin-left: auto;
 margin-right: auto;
 }
 section{
- background-color: #4F4F4F;
+    background-image: url(img/fundoback.jpg);
 }
 footer{
-background-color: coral;
+    background-image: url(img/fundoback.jpg);
 padding: 3%;
 }
 .cabecalho{
-padding: 3%;
+padding: 0%;
+background-image: url(img/fundoback.jpg);
 }
 .rodape{
  padding: 3%;
 }
 h1{
-    font-size: 240%;
+    font-size: 300%;
     padding-bottom: 3%;
 }
 h2{
-    background-color: #696969;
+    background-image: url(img/fundoback.jpg);
     padding-bottom: 3%;
-    font-size: 160%;
+    font-size: 200%;
+    color: lightgray;
+    
+    
 }
 img{
     display: block;margin-left: 2%;margin-right: auto;
     width: 30%;
     height: auto;
+    margin-left: auto;margin-right: auto;
 
 }
 .titulo {
@@ -67,6 +75,7 @@ img{
 p{
     
     color: gainsboro;
+    font-size: 120%;
 }
 pre{
     
@@ -79,16 +88,22 @@ ul{
 }
 .eps{
    
-background-color: #363636;
+    background-image: url(img/fundoback.jpg);
+color: lightgray
 
 }
 table{
     border-collapse: collapse;
-    border: 1px solid white
-   
+    color: gainsboro;
     
 }
 table, th, td {
     border: 1px solid;
     font-size: 110%;
   } 
+.temporada{
+    font-size: 300%;
+}
+.menu{
+    margin-left: auto;margin-right: auto;
+}
