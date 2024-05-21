@@ -23,23 +23,24 @@ nav{
 }
 main{
     background-image: url(img/fundoback.jpg);
-width: 80%;
-margin-left: auto;
-margin-right: auto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
 }
 section{
     background-image: url(img/fundoback.jpg);
 }
 footer{
     background-image: url(img/fundoback.jpg);
-padding: 3%;
+    padding: 3%;
 }
+
 .cabecalho{
-padding: 0%;
-background-image: url(img/fundoback.jpg);
+    padding: 0%;
+    background-image: url(img/fundoback.jpg);
 }
 .rodape{
- padding: 3%;
+    padding: 3%;
 }
 h1{
     font-size: 500%;
@@ -52,8 +53,6 @@ h2{
     padding-bottom: 3%;
     font-size: 200%;
     color: lightgray;
-    
-    
 }
 .img{
     background-color: black;
@@ -61,18 +60,13 @@ h2{
     width: 50%;
     height: auto;
     margin-left: auto;margin-right: auto;
-
 }
 .titulo {
-       
     font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
     color: gainsboro;
-   
-
-    
 }
 p{
     
@@ -80,26 +74,22 @@ p{
     font-size: 120%;
 }
 pre{
-    
     color: gainsboro;
     margin-left: 0%;
 }
 
 ul{
-   
     color: gainsboro;
 }
+
 .eps{
-   
     background-image: url(img/fundoback.jpg);
     color: lightgray;
     font-size: 300%;
 }
 table{
     border-collapse: collapse;
-    color: gainsboro;
-    
-    
+    color: gainsboro; 
 }
 table, th, td {
     border: 1px solid;
@@ -134,9 +124,17 @@ table, th, td {
 .stt3{
     margin-left: 0%;
 }
-.oqe{
- width: 40%;
-    margin-left: 0%;
+.direita{
+    width: 25%;
+    margin-left: 0.7%;
+    float: right;
+    margin-top: 0.7%;
+}
+.esq{
+    width: 25%;
+    float: left;
+    margin-right: 0.7%;
+    margin-top: 0.7%;
 }
 html{
     scroll-behavior: smooth;
@@ -177,4 +175,8 @@ text-align: center;
 }
 a.fontes:hover{
     color: mediumpurple;
+}
+
+p{
+    margin-top: 1.5%;
 }
